@@ -18,10 +18,7 @@
 
 </div>
 
-## 🫂 Contribuidores
+<hr>
 
-<a href="https://github.com/midudev/porfolio.dev/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=midudev/porfolio.dev" />
-</a>
-
-<p></p>
+This project is a fork of [midudev/portfolio.dev](https://github.com/midudev/portfolio.dev).  
+Special thanks to [midudev](https://github.com/midudev) for the original project.
