@@ -21,4 +21,4 @@
 <hr>
 
 This project is a fork of [midudev/portfolio.dev](https://github.com/midudev/portfolio.dev).  
-Special thanks to [midudev](https://github.com/midudev) for the original project.
+Special thanks to [midudev](https://midu.dev) for the original project.
