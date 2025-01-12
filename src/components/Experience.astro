@@ -1,21 +1,51 @@
 ---
+import { componentIsHTMLElement } from "astro/runtime/server/render/dom.js"
 import ExperienceItem from "./ExperienceItem.astro"
 const EXPERIENCE = [
   {
-    date: "Actualmente...",
-    title: "Creador de Contenido",
-    company: "Twitch",
+    date: "Jul/2023 - Present",
+    title: "Software Engineer II",
+    company: "Sanctuary Software Studio",
     description:
       "Divulgo sobre programación y desarrollo web en diferentes plataformas. Galardonado como mejor creador de contenido de habla no-inglesa en 2022 y mejor comunidad en 2023 por GitHub.",
-    link: "https://twitch.tv/midudev",
   },
   {
-    date: "Septiembre 2022",
-    title: "Principal Frontend Engineer",
-    company: "Adevinta Spain",
+    date: "Jun/2023 - Oct/2024",
+    title: "Full-stack Software Developer",
+    company: "Auxis",
     description:
       "Responsable de la plataforma, componentes y utilidades para la creación y desarrollo de aplicaciones web. Mejora de un 30% en la entrega de software. Implantación de medidas de integración continua y despliegue con A/B testing en más de 15 equipos.",
   },
+  {
+    date: "May/2022 - Feb/2023",
+    title: "Full-stack Software Developer",
+    company: "Globant",
+    description: ""
+  },
+  {
+    date: "Nov/2019 - May/2022",
+    title: "Full-stack Software Developer",
+    company: "UruIT",
+    description: ""
+  },
+  {
+    date: "Jan/2019 - Oct/2019",
+    title: "Full-stack Software Developer",
+    company: "SOPHOS Solutions",
+    description: ""
+  },
+  {
+    date: "Sep/2017 - Nov/2018",
+    title: "Junior Full-stack Developer",
+    company: "ADA S.A",
+    description: ""
+  },
+  {
+    date: "Jun/2017 - Sep/2017",
+    title: "Trainee Full-stack Developer",
+    company: "BINARIA Mobile",
+    description: ""
+  }
 ]
 ---
 
